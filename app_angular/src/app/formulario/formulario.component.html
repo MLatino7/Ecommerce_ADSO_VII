@@ -1,0 +1,9 @@
+<router-outlet></router-outlet>
+
+<form>
+    <input type="text" name="nombre" [(ngModel)]="nombre"><br>
+    <input type="text" name="apellido" [(ngModel)]="apellido">
+    <button type="button" (click)="registrar_usuario()">Registrar</button>
+</form>
+
+<div *ngIf="registrado">{{mensaje}} con el nombre de {{nombre}} {{apellido}}</div>

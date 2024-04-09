@@ -1,0 +1,126 @@
+- Building...
+
+Browser bundles        
+Initial chunk files     | Names               |  Raw size
+scripts.js              | scripts             | 106.42 kB | 
+styles.css              | styles              |  93.08 kB | 
+polyfills.js            | polyfills           |  83.60 kB | 
+main.js                 | main                |  38.06 kB | 
+
+                        | Initial total       | 321.17 kB
+
+
+Server bundles         
+Initial chunk files     | Names               |  Raw size
+chunk-4JDEPEE3.mjs      | -                   |   1.08 MB | 
+chunk-5RMHMNLB.mjs      | -                   | 638.12 kB | 
+polyfills.server.mjs    | polyfills.server    | 555.05 kB | 
+main.server.mjs         | main.server         | 426.92 kB | 
+chunk-VPSODEBW.mjs      | -                   |   2.51 kB | 
+render-utils.server.mjs | render-utils.server | 462 bytes | 
+
+Lazy chunk files        | Names               |  Raw size
+chunk-OTT6LQ5K.mjs      | xhr2                |  39.10 kB | 
+chunk-EQVG6EP7.mjs      | browser             |   1.68 kB | 
+
+Application bundle generation complete. [4.653 seconds]
+Watch mode enabled. Watching for file changes...
+  ➜  Local:   http://localhost:4200/
+{
+  message: 'Success',
+  productos: [
+    {
+      id: 48,
+      nombre: 'stdfsdfring',
+      descripcion: 'stsdfsdfring',
+      valor: 'stdsfsfring',
+      fecha_modificacion: 'stsdfsdfring',
+      estado_producto: 'stdsfsdfring',
+      fecha_ingreso: 'strsdfsfing',
+      categoria_id: 'strdsfsdfing',
+      subcategoria_id: 'stsdfsdfring'
+    },
+    {
+      id: 49,
+      nombre: 'Modi autem enim poss',
+      descripcion: 'Ad voluptatem est r',
+      valor: '9',
+      fecha_modificacion: '2024-03-20',
+      estado_producto: '1',
+      fecha_ingreso: '2024-03-20',
+      categoria_id: '1',
+      subcategoria_id: '2'
+    },
+    {
+      id: 50,
+      nombre: 'Dolores nulla totam ',
+      descripcion: 'Magnam ad voluptate ',
+      valor: '91',
+      fecha_modificacion: '2024-03-20',
+      estado_producto: '2',
+      fecha_ingreso: '2024-03-20',
+      categoria_id: '1',
+      subcategoria_id: '2'
+    },
+    {
+      id: 51,
+      nombre: 'Consectetur fugiat',
+      descripcion: 'Ad dolor veniam vel',
+      valor: '11',
+      fecha_modificacion: '2024-03-20',
+      estado_producto: '1',
+      fecha_ingreso: '2024-03-20',
+      categoria_id: '1',
+      subcategoria_id: '2'
+    }
+  ]
+}
+{
+  message: 'Success',
+  productos: [
+    {
+      id: 48,
+      nombre: 'stdfsdfring',
+      descripcion: 'stsdfsdfring',
+      valor: 'stdsfsfring',
+      fecha_modificacion: 'stsdfsdfring',
+      estado_producto: 'stdsfsdfring',
+      fecha_ingreso: 'strsdfsfing',
+      categoria_id: 'strdsfsdfing',
+      subcategoria_id: 'stsdfsdfring'
+    },
+    {
+      id: 49,
+      nombre: 'Modi autem enim poss',
+      descripcion: 'Ad voluptatem est r',
+      valor: '9',
+      fecha_modificacion: '2024-03-20',
+      estado_producto: '1',
+      fecha_ingreso: '2024-03-20',
+      categoria_id: '1',
+      subcategoria_id: '2'
+    },
+    {
+      id: 50,
+      nombre: 'Dolores nulla totam ',
+      descripcion: 'Magnam ad voluptate ',
+      valor: '91',
+      fecha_modificacion: '2024-03-20',
+      estado_producto: '2',
+      fecha_ingreso: '2024-03-20',
+      categoria_id: '1',
+      subcategoria_id: '2'
+    },
+    {
+      id: 51,
+      nombre: 'Consectetur fugiat',
+      descripcion: 'Ad dolor veniam vel',
+      valor: '11',
+      fecha_modificacion: '2024-03-20',
+      estado_producto: '1',
+      fecha_ingreso: '2024-03-20',
+      categoria_id: '1',
+      subcategoria_id: '2'
+    }
+  ]
+}
